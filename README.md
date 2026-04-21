@@ -1,4 +1,24 @@
 # ArchMate - Auto Architecture Diagram Generator
+## 🎬 Demo
+![ArchMate Demo](demo.gif)
+
+*Auto-generated architecture diagram from source code*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| UML Diagram | ![uml](screenshots/uml-diagram.png) |
+| C4 Model | ![c4](screenshots/c4-model.png) |
+| Cloud Architecture | ![cloud](screenshots/cloud-arch.png) |
+
+## Visual Description
+Code being parsed transforms instantly into UML class diagrams with relationship lines. C4 model presents Context-Container-Component layers with interactive drill-down. Cloud diagrams render AWS/GCP/Azure services with data flow arrows.
+
+---
+
+
+
+[![CI](https://github.com/moggan1337/ArchMate/actions/workflows/ci.yml/badge.svg)](https://github.com/moggan1337/ArchMate/actions/workflows/ci.yml)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version">
